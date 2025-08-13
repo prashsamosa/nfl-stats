@@ -16,27 +16,6 @@ This repository demonstrates mastery of essential statistical methods through pr
 - **Simulate Complex Systems**: Monte Carlo methods for risk analysis and uncertainty modeling
 - **Analyze Sequential Systems**: Markov chain analysis for state prediction and equilibrium modeling
 
-## 📁 Project Structure
-
-```
-advanced-statistical-toolkit/
-├── 01-statistical-foundations/      # Probability fundamentals and Python implementations
-├── 02-probability-analysis/         # Advanced probability and counting methods
-├── 03-distribution-modeling/        # Probability distributions and conditional analysis
-├── 04-regression-analysis/          # Linear regression implementation and validation
-├── 05-classification-models/        # Logistic regression and performance metrics
-├── 06-ensemble-methods/             # Decision trees and random forest algorithms
-├── 07-forecasting-models/           # Time series analysis and ARIMA modeling
-├── 08-optimization-algorithms/      # Linear programming and constraint solving
-├── 09-simulation-methods/           # Monte Carlo techniques and risk modeling
-├── 10-decision-frameworks/          # Decision analysis and expected value methods
-├── 11-sequential-modeling/          # Markov chain analysis and state prediction
-├── 12-pattern-detection/            # Natural sequence analysis and anomaly detection
-├── 13-operations-research/          # Project management and critical path analysis
-├── 14-quality-systems/              # Statistical process control and monitoring
-└── README.md
-```
-
 ## 🔧 Technologies Used
 
 - **Python 3.8+**: Core programming language
@@ -75,35 +54,6 @@ advanced-statistical-toolkit/
 - **Benford's Law**: Natural number sequence validation and fraud detection
 - **Quality Control**: Statistical process control and control chart analysis
 
-## 📋 Prerequisites
-
-```bash
-pip install numpy pandas matplotlib seaborn scipy scikit-learn statsmodels pulp yfinance
-```
-
-## 🏃‍♂️ Getting Started
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/prashsamosa/nfl-stats.git
-   cd nfl-stats
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **Explore statistical implementations**:
-   ```bash
-   # Start with probability fundamentals
-   cd 02-probability-analysis
-   python probability_examples.py
-
-   # Try advanced regression analysis
-   cd ../04-regression-analysis
-   jupyter notebook regression_modeling.ipynb
-   ```
 
 ## 📖 Chapter Highlights
 
@@ -131,11 +81,4 @@ pip install numpy pandas matplotlib seaborn scipy scikit-learn statsmodels pulp 
 - Business decision sensitivity analysis
 - Advanced sampling techniques for complex distributions
 
-## 🎯 Practical Applications
-
-- **Business Analytics**: Customer behavior modeling and sales forecasting
-- **Financial Analysis**: Portfolio optimization and risk management
-- **Quality Control**: Manufacturing process monitoring and defect analysis
-- **Project Management**: Critical path analysis and timeline optimization
-- **Fraud Detection**: Benford's law application for anomaly detection
 ---
